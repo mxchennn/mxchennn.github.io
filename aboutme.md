@@ -1,16 +1,4 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+## about me
+I've taken computer science 1 & 2 at Horace Mann. I've also been on FTC team 4326 for two years, but I spent most of my time there doing hardware as opposed to software. I am currently taking pre calc.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm looking forward to designing the lighting for the middle division show this year. The play, _Our Town_ by Thornton Wilder, is a metatheatrical three-act play which won the [Pulitzer Prize for drama](https://www.pulitzer.org/page/history-pulitzer-prizes) in 1938. We plan on performing the three acts seperately at three different times throughout the coming school year. 
