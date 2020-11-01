@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iris lab
+title: meta-analysis of research
 #subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
