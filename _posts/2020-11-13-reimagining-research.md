@@ -1,6 +1,6 @@
 ---
 layout: post
-title: meta-analysis of research
+title: reimagining research
 #subtitle: 
 #gh-repo: daattali/beautiful-jekyll
 #gh-badge: [star, fork, follow]
